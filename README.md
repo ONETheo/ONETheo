@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ONETheo
 - 👀 AI, voice technology, and the intersection of blockchain with cutting-edge tech.
-- 🌱 Learning prompt engineering and the expansive world of AI applications.
+- 🌱 Learning how to leverage AI tools to improve user onboarding into the world of crypto.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/theoperisic/)
 
 <!---
